@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#galary{
+    float: right;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    border: 1px solid salmon;
+}
+
+#btn{
+    height: 4rem;
+    width: 6rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    font-family: cursive;
+    border-radius: 50%;
+    background-color: blanchedalmond;
+    border: none;
+}
+#btn:hover{
+    background-color: beige;
+    cursor: pointer;
+}
